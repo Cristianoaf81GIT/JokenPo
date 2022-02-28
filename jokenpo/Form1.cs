@@ -17,6 +17,19 @@ namespace jokenpo
             InitializeComponent();
         }
 
-       
+        private void btnPedra_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnPapel_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnTesoura_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
