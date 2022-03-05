@@ -17,8 +17,8 @@ namespace jokenpo
         public static Image[] images = 
         {
             Image.FromFile("imagens/Pedra.png"),
-            Image.FromFile("images/Tesoura.png"),
-            Image.FromFile("images/Papel.png")
+            Image.FromFile("imagens/Tesoura.png"),
+            Image.FromFile("imagens/Papel.png")
         };
 
 
